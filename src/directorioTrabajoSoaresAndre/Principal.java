@@ -6,6 +6,9 @@ public class Principal {
 		// TODO Auto-generated method stub
 		
 		// Segunda fase
+		
+		
+		Clase clase = new Clase();
 	}
 
 }
